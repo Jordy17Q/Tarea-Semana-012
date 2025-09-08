@@ -35,5 +35,3 @@ El sistema está compuesto por tres clases principales:
 - Estructuras: `dict`, `list`, `tuple`, `set`
 - Estilo modular y comentado para facilitar mantenimiento
 
-git clone https://github.com/tu-usuario/biblioteca-digital.git
-cd biblioteca-digital
